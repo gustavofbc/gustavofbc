@@ -11,7 +11,7 @@
     </li>
 <br />
     <li>
-      <b>Gestão de Projetos</b> <i>Tudo o que envolve o processo de gerir um projeto é fascinante por proporcionar um caminho até a conclusão do mesmo. Escopo, Prazo e Time!</i>
+      <b>Gestão de Projetos</b> <i>Tudo o que envolve o processo de gerir um projeto é fascinante por proporcionar um caminho até a conclusão do mesmo. Escopo, Prazo e Time! :dart:</i>
     </li>
   </ul>
 <br />
