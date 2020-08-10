@@ -1,5 +1,5 @@
 ## Opa, eu sou  Gustavo Felipe 👋
-  ##### Aspirante a desenvolvedor web, UX Designer e Gestor de projetos... confere aí :point_down:
+  ##### Aspirante a Desenvolvedor web, UX Designer e Gestor de projetos... confere aí :point_down:
   
   <img  width="300" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
   <ul>
@@ -7,7 +7,7 @@
       <b>Desenvolvimento Web </b> <i> Almejando me tornar um fullstack? Com certeza. :relieved:</i>
   </li>
 <br />
-    <li> <b>UX Desinger </b> <i>Entender, projetar e desenvolver a melhor solução é essencial, logo, por que não dominar UX e acrescentar ainda mais em meus projetos?      hehe... :heavy_check_mark: </i> 
+    <li> <b>UX Designer </b> <i>Entender, projetar e desenvolver a melhor solução é essencial, logo, por que não dominar UX e acrescentar ainda mais em meus projetos?      hehe... :heavy_check_mark: </i> 
     </li>
 <br />
     <li>
