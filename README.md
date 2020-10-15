@@ -1,5 +1,8 @@
 ## Opa, eu sou  Gustavo Felipe 👋
   ##### Aspirante a Desenvolvedor web, UX Designer e Gestor de projetos... confere aí :point_down:
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavofbc)](https://github.com/gustavofbc) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-felipe-batista-carneiro-9342171a8/)](https://www.linkedin.com/in/gustavo-felipe-batista-carneiro-9342171a8/) 
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.felipebc@gmail.com)](mailto:gustavo.felipebc@gmail.com)
   
   <img  width="300" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
   <ul>
@@ -16,6 +19,8 @@
   </ul>
 <br />
 
-
 ### :octocat: GitHub Stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Valeu pela visita!
+[![HitCount](http://hits.dwyl.com/gustavofbc/https://githubcom/gustavofbc/gustavofbc.svg)](http://hits.dwyl.com/gustavofbc/https://githubcom/gustavofbc/gustavofbc)
