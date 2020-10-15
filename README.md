@@ -9,6 +9,7 @@
     <li> 
       <b>Desenvolvimento Web </b> <i> Almejando me tornar um fullstack? Com certeza. :relieved:</i>
   </li>
+  
 <br />
     <li> <b>UX Designer </b> <i>Entender, projetar e desenvolver a melhor solução é essencial, logo, por que não dominar UX e acrescentar ainda mais em meus projetos?      hehe... :heavy_check_mark: </i> 
     </li>
@@ -18,6 +19,28 @@
     </li>
   </ul>
 <br />
+
+##
+<b>Experiência com os seguintes Frameworks:</b>
+<p align="center">
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/react.svg"        alt ="React" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg"          alt ="Vue" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+    <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg"          alt ="Node" style ="vertical-align: top; margem: 6px 4px">
+  </a
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg"          alt ="Bootstrap" style ="vertical-align: top; margem: 6px 4px">
+  </a
+</p>
+
 
 ### :octocat: GitHub Stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
