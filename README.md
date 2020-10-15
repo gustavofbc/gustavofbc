@@ -41,6 +41,39 @@
   </a
 </p>
 
+##
+<b>Linguagens com as quais tive contato e desenvolvo:</b>
+<p align="center">
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/html.svg"        alt ="HTML" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/css3.svg"        alt ="CSS" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/php.svg"        alt ="PHP" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/js.svg"        alt ="JavaScript" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+</p>
+
+##
+<b>Ferramentas que utilizo:</b>
+<p align="center">
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+    <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+</p>
 
 ### :octocat: GitHub Stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
