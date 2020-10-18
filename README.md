@@ -25,11 +25,11 @@
 <p align="center">
   <a href="https://github.com/gustavofbc">
     <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/react.svg"        alt ="React" style ="vertical-align: top; margem: 6px 4px">
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/react_logo.svg"        alt ="React" style ="vertical-align: top; margem: 6px 4px">
   </a>
   <a href="https://github.com/gustavofbc">
     <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg"          alt ="Vue" style ="vertical-align: top; margem: 6px 4px">
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/vuejs.svg"          alt ="Vue" style ="vertical-align: top; margem: 6px 4px">
   </a>
     <a href="https://github.com/gustavofbc">
     <img 
@@ -60,6 +60,10 @@
     <img 
        src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/js.svg"        alt ="JavaScript" style ="vertical-align: top; margem: 6px 4px">
   </a>
+  <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/typescript.svg"        alt ="TypeScript" style ="vertical-align: top; margem: 6px 4px">
+  </a>
 </p>
 
 ##
@@ -72,6 +76,10 @@
     <a href="https://github.com/gustavofbc">
     <img 
        src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
+  </a>
+      <a href="https://github.com/gustavofbc">
+    <img 
+       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/git.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
   </a>
 </p>
 
