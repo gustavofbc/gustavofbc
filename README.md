@@ -22,6 +22,7 @@
   </div>
 
 <p align="center">
+  
   <a href="https://github.com/gustavofbc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -40,8 +41,12 @@
   
 </p>
 
-<b> :octocat: GitHub Stats </b>
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+<b> :octocat: GitHub Stats </b>
+
+<br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Valeu pela visita!
