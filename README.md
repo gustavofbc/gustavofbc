@@ -1,87 +1,13 @@
 ## Opa, eu sou  Gustavo Felipe 👋
-  ##### Aspirante a Desenvolvedor web, UX Designer e Gestor de projetos... confere aí :point_down:
+  ##### Desenvolvedor web front-end Jr em construção e aspirante a Gestor de projetos   :point_down:
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavofbc)](https://github.com/gustavofbc) 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-felipe-batista-carneiro-9342171a8/)](https://www.linkedin.com/in/gustavo-felipe-batista-carneiro-9342171a8/) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.felipebc@gmail.com)](mailto:gustavo.felipebc@gmail.com)
   
-  <img  width="300" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
-  <ul>
-    <li> 
-      <b>Desenvolvimento Web </b> <i> Almejando me tornar um fullstack? Com certeza. :relieved:</i>
-  </li>
-  
-<br />
-    <li> <b>UX Designer </b> <i>Entender, projetar e desenvolver a melhor solução é essencial, logo, por que não dominar UX e acrescentar ainda mais em meus projetos?      hehe... :heavy_check_mark: </i> 
-    </li>
-<br />
-    <li>
-      <b>Gestão de Projetos</b> <i>Tudo o que envolve o processo de gerir um projeto é fascinante por proporcionar um caminho até a conclusão do mesmo. Escopo, Prazo e Time! :dart:</i>
-    </li>
-  </ul>
-<br />
+<!--   <img  width="300" src="https://piskel-imgstore-b.appspot.com/img/2c473a51-3407-11eb-9563-23a1f9a7a7cc.gif" /> -->
 
-##
-<b>Experiência com os seguintes Frameworks:</b>
-<p align="center">
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/react_logo.svg"        alt ="React" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/vuejs.svg"          alt ="Vue" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-    <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg"          alt ="Node" style ="vertical-align: top; margem: 6px 4px">
-  </a
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg"          alt ="Bootstrap" style ="vertical-align: top; margem: 6px 4px">
-  </a
-</p>
 
-##
-<b>Linguagens com as quais tive contato e desenvolvo:</b>
-<p align="center">
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/html.svg"        alt ="HTML" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/css3.svg"        alt ="CSS" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/php.svg"        alt ="PHP" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/js.svg"        alt ="JavaScript" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/languages/typescript.svg"        alt ="TypeScript" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-</p>
 
-##
-<b>Ferramentas que utilizo:</b>
-<p align="center">
-  <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-    <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-      <a href="https://github.com/gustavofbc">
-    <img 
-       src ="https://github.com/gustavofbc/ColoredBadges/blob/master/svg/dev/tools/git.svg"        alt ="VSCode" style ="vertical-align: top; margem: 6px 4px">
-  </a>
-</p>
 
 ### :octocat: GitHub Stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
