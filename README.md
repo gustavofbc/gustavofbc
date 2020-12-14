@@ -72,4 +72,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- POINTS --->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavofbc&margin-w=7" alt="gustavofbc points" />
+</p>
 #### Valeu pela visita!
