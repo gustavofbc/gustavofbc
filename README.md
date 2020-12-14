@@ -70,8 +70,10 @@
 <b> :octocat: GitHub Stats </b>
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats"/>
+</p>
 
 <!-- POINTS --->
 <p align="center">
