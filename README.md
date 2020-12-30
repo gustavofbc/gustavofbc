@@ -1,11 +1,9 @@
 ## Opa, eu sou  Gustavo Felipe 👋
-  <b>Desenvolvedor web front-end Jr em construção e aspirante a Gestor de projetos   :point_down:</b>
-  
+
   <div>
    <p aling=right>
-      Sou graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
-      minhas habilidades são voltadas para o desenvolvimento front-end e gerenciamento de projetos. Tenho buscado me capacitar continuamente
-      e adquirir experiência por meio de cursos diversos.
+      Graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
+      desenvolvedor Web Front-end Jr em construção e aspirante a Gestor de projetos.
    </p>
    
    <p>
@@ -15,7 +13,7 @@
    </p>
    
    <p align=right>
-      <img src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="75px" max-width="75px" />
+      <img src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" width="50px"/>
       <i>- Como deve ser...</i>
    </p>
   </div>
