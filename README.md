@@ -2,8 +2,6 @@
   <b>Desenvolvedor web front-end Jr em construção e aspirante a Gestor de projetos   :point_down:</b>
   
   <div>
-    <img align=left src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="225px" max-width="225px" />
-
    <p aling=right>
       Sou graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
       minhas habilidades são voltadas para o desenvolvimento front-end e gerenciamento de projetos. Tenho buscado me capacitar continuamente
@@ -17,7 +15,8 @@
    </p>
    
    <p align=right>
-      <i>- que a força esteja com você...</i>
+      <img src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="75px" max-width="75px" />
+      <i>- Como deve ser...</i>
    </p>
   </div>
   
@@ -52,7 +51,6 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </div>
   
   <ul><li>Planos futuros:</li></ul> 
