@@ -2,7 +2,7 @@
   <b>Desenvolvedor web front-end Jr em construção e aspirante a Gestor de projetos   :point_down:</b>
   
   <div>
-    <img align=left src="https://piskel-imgstore-b.appspot.com/img/2c473a51-3407-11eb-9563-23a1f9a7a7cc.gif" min-width="250px" max-width="250px" />
+    <img align=left src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="225px" max-width="225px" />
 
    <p aling=right>
       Sou graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
