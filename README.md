@@ -1,7 +1,10 @@
-## Opa, eu sou  Gustavo Felipe 👋
+## Opa, eu sou  Gustavo Felipe <img src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" width="50px"/>
 
   <div>
-   <p aling=right>
+<!--     <img align=right src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" width="200px"/> -->
+<!--   <img align=left src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="225px" max-width="225px" /> -->
+  
+   <p aling=left>
       Graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
       desenvolvedor Web Front-end Jr em construção e aspirante a Gestor de projetos.
    </p>
