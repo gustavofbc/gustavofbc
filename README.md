@@ -1,10 +1,7 @@
 ## Opa, eu sou  Gustavo Felipe <img src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" width="50px"/>
 
   <div>
-<!--     <img align=right src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" width="200px"/> -->
-<!--   <img align=left src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" min-width="225px" max-width="225px" /> -->
-  
-   <p aling=left>
+   <p align=left>
       Graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
       desenvolvedor Web Front-end Jr em construção e aspirante a Gestor de projetos.
    </p>
@@ -21,6 +18,48 @@
    </p>
   </div>
   
+<!-- SKILLS -->
+<h4>🏆 Minhas skills: </h4>
+  <p>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png" alt="HTML5" height="32" width="32" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" alt="CSS3" height="32" width="32" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" alt="JavaScript" height="32" width="32" />
+  </a>
+  
+  <a href="https://getbootstrap.com.br/" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" height="32" width="32" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png" alt="Git" height="32" width="32" />
+  </a>
+  </p>
+
+<!-- PRETENSIONS -->
+<h4> 🎯 O que pretendo aprender: </h4>
+  <p>
+  
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png" alt="React" height="32" width="32" />
+  </a>
+  
+  <a href="https://www.typescriptlang.org/pt/" target="_blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="32" width="32" />
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2108/PNG/48/sass_icon_130835.png" alt="SASS" height="32" width="32" />
+  </a>
+  </p>
+
 <!-- CONTATO -->
 <div>
   <p align="center"><b>Onde me encontrar:</b></p>
@@ -42,28 +81,7 @@
       </a>
   </p>
 </div>
-<br/>
-
-<!-- SKILLS -->
-<ul>
-  <li><b>Skills:</b></li>
-    <div align=center>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </div>
-  
-  <ul><li>Planos futuros:</li></ul> 
-    <div align=center>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    </div>
-  </ul>
-  
-</ul>
-<br/>
+<hr/>
 
 <!-- GITHUB-STATS -->
 <b> :octocat: GitHub Stats </b>
