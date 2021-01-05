@@ -19,7 +19,7 @@
   </div>
   
 <!-- SKILLS -->
-<h4>🏆 Minhas skills: </h4>
+<h4> :trophy: Minhas skills: </h4>
   <p>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -43,8 +43,16 @@
   </a>
   </p>
 
+<!-- STUDYING -->
+<h4> :pushpin: O que estou aprendendo/reforçando: </h4>
+  <p>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" alt="JavaScript" height="32" width="32" />
+    </a>
+  </p>
+
 <!-- PRETENSIONS -->
-<h4> 🎯 O que pretendo aprender: </h4>
+<h4> :dart: O que pretendo aprender: </h4>
   <p>
   
   <a href="https://pt-br.reactjs.org/" target="_blank">
