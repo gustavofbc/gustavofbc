@@ -41,6 +41,10 @@
   <a href="https://git-scm.com/" target="_blank">
       <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png" alt="Git" height="32" width="32" />
   </a>
+  
+  <a href="https://www.figma.com/" target="_blank">
+      <img align="center" src="https://icon-icons.com/icons2/2429/PNG/48/figma_logo_icon_147289.png" alt="Figma" height="32" width="32" />
+  </a>
   </p>
 
 <!-- STUDYING -->
