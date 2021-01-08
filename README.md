@@ -23,27 +23,27 @@
   <p>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png" alt="HTML5" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/html.png" alt="HTML5" height="100" width="100" />
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" alt="CSS3" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" alt="HTML5" height="100" width="100" />
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" alt="JavaScript" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="CCS3" height="100" width="100" />
   </a>
   
   <a href="https://getbootstrap.com.br/" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/bootstrap.png" alt="JAVASCRIPT" height="100" width="100" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png" alt="Git" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/git.png" alt="GIT" height="100" width="100" />
   </a>
   
   <a href="https://www.figma.com/" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2429/PNG/48/figma_logo_icon_147289.png" alt="Figma" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="FIGMA" height="100" width="100" />
   </a>
   </p>
 
