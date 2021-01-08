@@ -68,7 +68,7 @@
   </a>
   
   <a href="https://sass-lang.com/" target="_blank">
-      <img align="center" src="https://icon-icons.com/icons2/2108/PNG/48/sass_icon_130835.png" alt="SASS" height="32" width="32" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/sass.png" alt="SASS" height="100" width="100" />
   </a>
   </p>
 
