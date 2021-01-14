@@ -23,27 +23,27 @@
   <p>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/html.png" alt="HTML5" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/html_dark.png" alt="HTML5" height="100" width="100" />
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" alt="CSS3" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/css_dark.png" alt="CSS3" height="100" width="100" />
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="JAVASCRIPT" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/javascript_dark.png" alt="JAVASCRIPT" height="100" width="100" />
   </a>
   
   <a href="https://getbootstrap.com.br/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/bootstrap.png" alt="BOOTSTRAP" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/bootstrap_dark.png" alt="BOOTSTRAP" height="100" width="100" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/git.png" alt="GIT" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/git_dark.png" alt="GIT" height="100" width="100" />
   </a>
   
   <a href="https://www.figma.com/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="FIGMA" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/figma_dark.png" alt="FIGMA" height="100" width="100" />
   </a>
   </p>
 
@@ -51,7 +51,7 @@
 <h4> :pushpin: O que estou aprendendo/reforçando: </h4>
   <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="JAVASCRIPT" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/javascript_dark.png" alt="JAVASCRIPT" height="100" width="100" />
     </a>
   </p>
 
@@ -60,15 +60,15 @@
   <p>
   
   <a href="https://pt-br.reactjs.org/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="REACT" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/react_dark.png" alt="REACT" height="100" width="100" />
   </a>
   
   <a href="https://www.typescriptlang.org/pt/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="REACT" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/typescript_dark.png" alt="REACT" height="100" width="100" />
   </a>
   
   <a href="https://sass-lang.com/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/sass.png" alt="SASS" height="100" width="100" />
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/sass_dark.png" alt="SASS" height="100" width="100" />
   </a>
   </p>
 
