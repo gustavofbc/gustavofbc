@@ -2,8 +2,8 @@
 
   <div>
    <p align=left>
-      Graduando de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
-      desenvolvedor Web Front-end Jr em construção e aspirante a Gestor de projetos.
+      Graduado de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
+      desenvolvedor Web Front-end Jr em construção.
    </p>
    
    <p>
@@ -100,10 +100,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=buefy&show_icons=true&custom_title=🐺%20Gustavo%20Felipe's%20GitHub%20Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavofbc&theme=chartreuse-dark&show_icons=true&custom_title=🐺%20Gustavo%20Felipe's%20GitHub%20Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbc&layout=compact&theme=chartreuse-dark&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 
 #### Valeu pela visita!
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgustavofbc&count_bg=%236F3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
