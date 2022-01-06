@@ -34,10 +34,6 @@
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/javascript_dark.png" alt="JAVASCRIPT" height="75" width="75" />
   </a>
   
-  <a href="https://getbootstrap.com.br/" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/bootstrap_dark.png" alt="BOOTSTRAP" height="75" width="75" />
-  </a>
-  
   <a href="https://git-scm.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/git_dark.png" alt="GIT" height="75" width="75" />
   </a>
