@@ -46,14 +46,6 @@
 <!-- STUDYING -->
 <h4> :pushpin: O que estou aprendendo/reforçando: </h4>
   <p>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/javascript_dark.png" alt="JAVASCRIPT" height="75" width="75" />
-    </a>
-  </p>
-
-<!-- PRETENSIONS -->
-<h4> :dart: O que pretendo aprender: </h4>
-  <p>
   
   <a href="https://pt-br.reactjs.org/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/react_dark.png" alt="REACT" height="75" width="75" />
@@ -66,7 +58,7 @@
   <a href="https://sass-lang.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/sass_dark.png" alt="SASS" height="75" width="75" />
   </a>
-  </p>
+ </p>
 
 <!-- CONTATO -->
 <div>
