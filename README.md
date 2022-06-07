@@ -1,4 +1,4 @@
-## Opa, eu sou  Gustavo Felipe <img src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" width="30px"/>
+## Opa, eu sou  Gustavo Felipe <img src="https://piskel-imgstore-b.appspot.com/img/0df6236b-4aad-11eb-8837-8f9d921c2e53.gif" height="35px"/>
 
   <div>
    <p align=left>
@@ -13,7 +13,7 @@
    </p>
    
    <p align=right>
-      <img src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" width="50px"/>
+      <img src="https://piskel-imgstore-b.appspot.com/img/08ba76e6-4aa1-11eb-be08-9357589d351e.gif" height="40px"/>
       <i>- Como deve ser...</i>
    </p>
   </div>
