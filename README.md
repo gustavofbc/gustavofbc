@@ -3,12 +3,12 @@
   <div>
    <p align=left>
       Graduado de Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA),
-      desenvolvedor Web Front-end Jr em construção.
+      desenvolvedor Web Front-end Jr. Estou me capacitando através de cursos e projetos pessoais.
    </p>
    
    <p>
       <ul>
-        <li>Fã de Star Wars e Pixel Art</li>  
+        <li>Fã de Star Wars, gatos e Pixel Art</li>  
       </ul>
    </p>
    
@@ -20,7 +20,7 @@
   
 <!-- SKILLS -->
 <h4> :trophy: Minhas skills: </h4>
-  <p>
+  <p align=center>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/html_dark.png" alt="HTML5" height="75" width="75" />
@@ -45,7 +45,7 @@
 
 <!-- STUDYING -->
 <h4> :pushpin: O que estou aprendendo/reforçando: </h4>
-  <p>
+  <p align=center>
   
   <a href="https://pt-br.reactjs.org/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/react_dark.png" alt="REACT" height="75" width="75" />
@@ -62,7 +62,7 @@
 
 <!-- CONTATO -->
 <div>
-  <p align="center"><b>Onde me encontrar:</b></p>
+  <p> :envelope: <b>Onde me encontrar:</b></p>
     <p align="center">
       <a href="https://gustavofbc.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white">
