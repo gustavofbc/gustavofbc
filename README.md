@@ -34,6 +34,10 @@
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/javascript_dark.png" alt="JAVASCRIPT" height="75" width="75" />
   </a>
   
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+      <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/react_dark.png" alt="REACT" height="75" width="75" />
+  </a>
+  
   <a href="https://git-scm.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/git_dark.png" alt="GIT" height="75" width="75" />
   </a>
@@ -41,6 +45,7 @@
   <a href="https://www.figma.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/dark/figma_dark.png" alt="FIGMA" height="75" width="75" />
   </a>
+  
   </p>
 
 <!-- STUDYING -->
